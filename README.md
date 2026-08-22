@@ -139,7 +139,7 @@ cp .env.example .env
 python -m streamlit run app.py
 ```
 
-Open your browser at **http://localhost:8501**
+Open your browser at **https://aistudysmart-j6y8gnvqgb9bcyolxmgm5p.streamlit.app/**
 
 ---
 
